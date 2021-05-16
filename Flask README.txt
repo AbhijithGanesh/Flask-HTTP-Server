@@ -19,4 +19,4 @@ To create a virtual Environment, follow the steps mentioned below:
     8.  There are other features in Flask which can be accessed in their docs:   
         https://flask.palletsprojects.com/en/2.0.x/
     9. To run the Flask server:
-            flask run <port>
+            flask run -p <address>:<port>
