@@ -4,12 +4,14 @@ REST API Flask
 This project was implemented to implement a quick RESTful API through Flask Framework. No CSS or JS was used to style the Templates as the primary purpose of this project was to 
 implement HTTP Methods efficiently.
 To store and process data, a JSON file was considered as sample storage and the JSON module is used to handle the methods based on the information passed.
-The following HTTP Methods were implemented:
+The following HTTP Methods were implemented	:
+
     1. GET
     2. POST
     3. PUT
     4. PATCH
     5. DELETE
+	
 Basically it was meant to process CRUD methods.
 
  
