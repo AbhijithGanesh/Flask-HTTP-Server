@@ -16,7 +16,6 @@ Basically it was meant to process CRUD methods.
 How to setup and run the server?
 ==================================================================================================================================================================================
 
-
 Before Installing Flask please consider using a Virtual Environment.
 [ALL COMMANDS ON THIS FILE ARE TO BE EXECUTED ON CLI UNTIL EXPLICITLY MENTIONED OTHERWISE. ]
 To create a virtual Environment, follow the steps mentioned below:
