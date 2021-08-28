@@ -12,7 +12,7 @@ The following HTTP Methods were implemented	:
     4. PATCH
     5. DELETE
 	
-Basically it was meant to process CRUD methods.
+It was a skeletal CRUD API processor.
 
  
 How to setup and run the server?
@@ -20,7 +20,8 @@ How to setup and run the server?
 
 Before Installing Flask please consider using a Virtual Environment.
 [ALL COMMANDS ON THIS FILE ARE TO BE EXECUTED ON CLI UNTIL EXPLICITLY MENTIONED OTHERWISE. ]
-To create a virtual Environment, follow the steps mentioned below:
+To create a virtual Environment, follow the steps mentioned below	:
+
     1. In your Command Line, Make sure your Python can be activated(Add it to your PATH)
     2. Create A New Directory as per your working prefernce
     3. Outside the working directory execute the following command:
