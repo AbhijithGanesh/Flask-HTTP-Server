@@ -37,6 +37,4 @@ To create a virtual Environment, follow the steps mentioned below:
         Https://flask.palletsprojects.com/en/2.0.x/
     7. To run the Flask server:
            ``` Flask run -p <address>:<port>```
-    
-    
-==================================================================================================================================================================================
+ 
