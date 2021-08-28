@@ -1,6 +1,7 @@
 REST API Flask
 ==================================================================================================================================================================================
 
+
 Before Installing Flask please consider using a Virtual Environment.
 [ALL COMMANDS ON THIS FILE ARE TO BE EXECUTED ON CLI UNTIL EXPLICITLY MENTIONED OTHERWISE. ]
 To create a virtual Environment, follow the steps mentioned below:
@@ -21,4 +22,6 @@ To create a virtual Environment, follow the steps mentioned below:
         Https://flask.palletsprojects.com/en/2.0.x/
     7. To run the Flask server:
             Flask run -p <address>:<port>
+    
+    
 ==================================================================================================================================================================================
