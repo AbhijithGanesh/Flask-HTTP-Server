@@ -37,7 +37,7 @@ def MethodsPage():
 
 
     
-    return "This page/URL supports PUT,PATCH and DELETE Methods. Use "
+    return "This page/URL supports PUT,PATCH and DELETE Methods. Use Postman to send in requests. "
 
 if __name__ == "__main__":
     app.run()
